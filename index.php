@@ -66,7 +66,7 @@
     <div class="social-links text-center">
       <a href="https://www.tiktok.com/@t0r0nt0" class="tiktok"><i class="bi bi-tiktok"></i></a>
       <a href="https://www.instagram.com/iamt0r0nt0/" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/blair-mbugua-9329a42a5" class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div>
 
     <nav id="navmenu" class="navmenu">
@@ -82,30 +82,6 @@
         </li>
         <li>
           <a href="#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a>
-        </li>
-        <li>
-          <a href="#services"><i class="bi bi-hdd-stack navicon"></i> Services</a>
-        </li>
-        <li class="dropdown">
-          <a href="#"><i class="bi bi-menu-button navicon"></i> <span>Dropdown</span>
-            <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-          <ul>
-            <li><a href="#">Dropdown 1</a></li>
-            <li class="dropdown">
-              <a href="#"><span>Deep Dropdown</span>
-                <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-              <ul>
-                <li><a href="#">Deep Dropdown 1</a></li>
-                <li><a href="#">Deep Dropdown 2</a></li>
-                <li><a href="#">Deep Dropdown 3</a></li>
-                <li><a href="#">Deep Dropdown 4</a></li>
-                <li><a href="#">Deep Dropdown 5</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Dropdown 2</a></li>
-            <li><a href="#">Dropdown 3</a></li>
-            <li><a href="#">Dropdown 4</a></li>
-          </ul>
         </li>
         <li>
           <a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a>
@@ -779,8 +755,8 @@
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
         <p>
-          Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
-          consectetur velit
+          Any questions or inquiries? <br />
+          Please feel free to contact me directly.
         </p>
       </div>
       <!-- End Section Title -->
@@ -819,7 +795,7 @@
                 data-aos-delay="400">
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
-                  <h3>Email Us</h3>
+                  <h3>Email Me</h3>
                   <p>blairmbugua868@gmail.com</p>
                 </div>
               </div>

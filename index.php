@@ -839,7 +839,6 @@
             <form
               action="./forms/contact.php"
               method="post"
-              class="php-email-form"
               data-aos="fade-up"
               data-aos-delay="200">
               <div class="row gy-4">
@@ -884,14 +883,10 @@
                 </div>
 
                 <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <input type="hidden"
-                    name="send"
-                    value="send">
-
-                  <button type="submit">Send Message</button>
+                  <button type="submit" name="send" class="btn btn-primary">Send Message</button>
                 </div>
+
+
               </div>
             </form>
           </div>
